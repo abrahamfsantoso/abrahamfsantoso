@@ -1,6 +1,8 @@
-### Hi there 👋
+# ![Abraham header](https://github.com/abrahamfsantoso/abrahamfsantoso/blob/main/header.png?raw=true)
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com) , give me a shout out [@abrahamfsantoso](https://twitter.com/abrahamfsantoso), 
+### My brief introduction
+
+I am a MERN stack web developer.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [abrahamfsantoso@netlify.app](abrahamfsantoso@netlify.app) , give me a shout out [@abrahamfsantoso](https://twitter.com/abrahamfsantoso), 
 <!-- Actual text -->
 
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
