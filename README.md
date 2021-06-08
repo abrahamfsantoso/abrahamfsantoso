@@ -1,16 +1,20 @@
 # ![Abraham header](https://github.com/abrahamfsantoso/abrahamfsantoso/blob/main/header.png?raw=true)
 
-## My brief introduction
+## &#x1F466;&#x1F3FB; 	My brief introduction
 
-I am a MERN stack web developer, currently based in Jakarta, Indonesia.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [abrahamfsantoso@netlify.app](abrahamfsantoso@netlify.app) , give me a shout out [@abrahamfsantoso](https://twitter.com/abrahamfsantoso), 
-<!-- Actual text -->
+I am a MERN stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Phyton as my second language. You can see a full list of what I am up to on [abrahamfsantoso@netlify.app](abrahamfsantoso@netlify.app).
 
-You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+If you have any questions or enquiry about anything, you can email me at [abrahamfsantoso@gmail.com]([abrahamfsantoso@gmail.com)
+
+## &#x1F4F2;	Socials
+You can give me a shout out <a href="https://twitter.com/abrahamfsantoso"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>
+
+You can check my profile and previous experiences <a href="https://www.linkedin.com/in/abrahamfsantoso/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>.
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png 
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
@@ -52,6 +56,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamfsantoso&hide=java,shell,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
+## &#128451;	Featured Repos
 <a href="https://github.com/abrahamfsantoso/socialmedia-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=socialmedia-MERN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
