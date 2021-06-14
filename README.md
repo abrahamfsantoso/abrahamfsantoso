@@ -70,3 +70,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/abrahamfsantoso/blog-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=blog-MERN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/abrahamfsantoso/netflix-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=netflix-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
