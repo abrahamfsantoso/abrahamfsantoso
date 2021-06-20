@@ -2,7 +2,7 @@
 
 ## &#x1F466;&#x1F3FB; 	My brief introduction
 
-I am a MERN stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Phyton as my second language. You can see a full list of what I am up to on [abrahamfsantoso@netlify.app](abrahamfsantoso@netlify.app).
+I am a MERN stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Typescript as my second language. You can see a full list of what I am up to on [abrahamfsantoso@netlify.app](abrahamfsantoso@netlify.app).
 
 If you have any questions or enquiry about anything, you can email me at [abrahamfsantoso@gmail.com]([abrahamfsantoso@gmail.com)
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/abrahamfsantoso/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamfsantoso&hide=java,shell,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamfsantoso&hide=java,shell,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 ## &#128451;	Featured Repos
