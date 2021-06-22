@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -62,15 +63,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/abrahamfsantoso/socialmedia-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=socialmedia-MERN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<a href="https://github.com/abrahamfsantoso/travelpin-MERN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=travelpin-MERN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+<a href="https://instagram-clone-five-dusky.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=instagram-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
 <a href="https://github.com/abrahamfsantoso/blog-MERN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=blog-MERN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<a href="https://github.com/abrahamfsantoso/netflix-clone">
+<a href="https://netflix-clone-chi-ten.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrahamfsantoso&repo=netflix-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
