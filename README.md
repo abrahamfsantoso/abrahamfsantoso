@@ -2,7 +2,7 @@
 
 ## &#x1F466;&#x1F3FB; 	My brief introduction
 
-I am a MERN stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Typescript as my second language. You can see a full list of what I am up to on [abrahamfsantoso@netlify.app](abrahamfsantoso@netlify.app).
+I am a MERN stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Typescript as my second language.
 
 If you have any questions or enquiry about anything, you can email me at [abrahamfsantoso@gmail.com]([abrahamfsantoso@gmail.com)
 
