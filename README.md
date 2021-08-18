@@ -2,7 +2,7 @@
 
 ## &#x1F466;&#x1F3FB; 	My brief introduction
 
-I am a MERN stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Typescript as my second language.
+I am a MERNG stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Typescript as my second language.
 
 If you have any questions or enquiry about anything, you can email me at [abrahamfsantoso@gmail.com]([abrahamfsantoso@gmail.com)
 
@@ -41,12 +41,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 
 
