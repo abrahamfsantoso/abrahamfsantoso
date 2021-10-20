@@ -2,7 +2,7 @@
 
 ## &#x1F466;&#x1F3FB; 	My brief introduction
 
-I am a MERNG stack web developer, currently based in Jakarta, Indonesia. I'm currently learning Typescript as my second language.
+I am a full stack web developer, currently based in Jakarta, Indonesia. Although I have passion and specialize in MERNG stack, I love to learn new languages including its frameworks and libraries and now I am currently learning PHP and Vue.js.
 
 If you have any questions or enquiry about anything, you can email me at [abrahamfsantoso@gmail.com]([abrahamfsantoso@gmail.com)
 
@@ -41,11 +41,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
